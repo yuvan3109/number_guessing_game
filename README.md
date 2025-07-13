@@ -4,14 +4,11 @@ An interactive, voice-enabled number guessing game built with Python and Tkinter
 Includes features like background music, emoji reactions, difficulty levels, scoring, and a leaderboard.
 
 ---
-
-## 📷 Screenshots
+---
+## 📷 VIDEO LINK
 
 ▶️ [Watch Gameplay Demo on Google Drive](https://drive.google.com/file/d/1aSZ-GiCflCRAtGoWODp2wp4e6_QgP6ok/view?usp=drive_link)
-
-
-> (Add screenshots here of the main window, game in progress, and leaderboard popup.)
-
+---
 ---
 
 ## 🧠 Features
